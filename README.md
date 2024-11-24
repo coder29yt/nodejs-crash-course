@@ -84,7 +84,12 @@ nodejs-crash-course/
 └── package.json
 ```
 
+---
 
+## 🚀 Get Started Today!
+This crash course is packed with foundational concepts to kickstart your journey into backend development. Subscribe to coder29 on YouTube for detailed tutorials and walkthroughs!
 
+## ❤️ Acknowledgements
+Thank you for being a part of this journey. Don't forget to like, comment, and subscribe for more tutorials!
 
 
