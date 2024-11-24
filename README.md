@@ -37,7 +37,9 @@ Welcome to the **Node.js Crash Course**, designed to help you master the basics 
    ```bash
    git clone https://github.com/your-username/nodejs-crash-course.git
    cd nodejs-crash-course
-2. npm install
-3. PORT=5000
-4. node index.js
+2. Install the required dependencies:
+  ```bash
+  npm install
+4. PORT=5000
+5. node index.js
 
