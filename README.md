@@ -85,6 +85,43 @@ nodejs-crash-course/
 ```
 
 ---
+Here’s a references section to include at the end of your `README.md`:
+
+---
+
+## 📚 References
+
+To deepen your understanding of Node.js and the concepts covered in this crash course, check out these resources:
+
+1. **Official Node.js Documentation**  
+   - [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)  
+   Comprehensive guides and API references for all Node.js modules.
+
+2. **Node.js File System (fs) Module**  
+   - [https://nodejs.dev/en/learn/the-nodejs-fs-module/](https://nodejs.dev/en/learn/the-nodejs-fs-module/)  
+   Learn about working with the file system in Node.js.
+
+3. **HTTP Module Guide**  
+   - [https://nodejs.dev/en/learn/making-http-requests-with-nodejs/](https://nodejs.dev/en/learn/making-http-requests-with-nodejs/)  
+   Explore how to create HTTP servers and handle requests.
+
+4. **Path Module Overview**  
+   - [https://nodejs.dev/en/learn/the-nodejs-path-module/](https://nodejs.dev/en/learn/the-nodejs-path-module/)  
+   A detailed guide to managing and manipulating file paths.
+
+5. **dotenv Documentation**  
+   - [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)  
+   Simplify environment variable management with this popular Node.js package.
+
+6. **YouTube Tutorials by Coder29**  
+   - [https://youtube.com/coder29](https://youtube.com/coder29)  
+   Follow along with engaging video tutorials for beginners.
+
+7. **MDN Web Docs: HTTP**  
+   - [https://developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
+   Dive deeper into HTTP concepts, status codes, and best practices.
+
+---
 
 ## 🚀 Get Started Today!
 This crash course is packed with foundational concepts to kickstart your journey into backend development. Subscribe to coder29 on YouTube for detailed tutorials and walkthroughs!
