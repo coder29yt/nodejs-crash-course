@@ -124,7 +124,7 @@ To deepen your understanding of Node.js and the concepts covered in this crash c
 ---
 
 ## 🚀 Get Started Today!
-This crash course is packed with foundational concepts to kickstart your journey into backend development. Subscribe to coder29 on YouTube for detailed tutorials and walkthroughs!
+This crash course is packed with foundational concepts to kickstart your journey into backend development. Subscribe to [Coder29](https://www.youtube.com/@coder29) on YouTube for detailed tutorials and walkthroughs!
 
 ## ❤️ Acknowledgements
 Thank you for being a part of this journey. Don't forget to like, comment, and subscribe for more tutorials!
