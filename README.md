@@ -28,6 +28,7 @@ Welcome to the **Node.js Crash Course**, designed to help you master the basics 
 - **Node.js**: Backend runtime.
 - **dotenv**: Environment variable management.
 - **HTML**: Static content.
+- **Tailwind CSS**: Styling webpage.
 
 ---
 
