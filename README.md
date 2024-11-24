@@ -43,7 +43,7 @@ Welcome to the **Node.js Crash Course**, designed to help you master the basics 
    ```bash
    npm install or npm i
    ```
-3. Set up .env file if not present:
+3. Set up `.env` file if not present:
    ```bash
    PORT=5000
    ```
