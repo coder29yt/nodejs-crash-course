@@ -1,4 +1,4 @@
-# 🚀 Node.js Crash Course for Absolute Beginners
+# 🚀 Node.js Crash Course for Absolute Beginners In Just 2 Hours
 
 Welcome to the **Node.js Crash Course**, designed to help you master the basics of Node.js in no time! Whether you're starting your coding journey or transitioning to backend development, this course has everything you need to get started with real-world projects.  
 
