@@ -61,18 +61,19 @@ Welcome to the **Node.js Crash Course**, designed to help you master the basics 
 ## 🌟 Key Features
 
 Internal Modules Demonstrated:
-**Path Module*: Manage and join file paths dynamically.
-**OS Module**: Retrieve system information like user details and OS version.
-**FS Module**: Create, read, write, and append files seamlessly.
-**HTTP Module**: Create robust HTTP servers.
+- **Path Module*: Manage and join file paths dynamically.
+- **OS Module**: Retrieve system information like user details and OS version.
+- **FS Module**: Create, read, write, and append files seamlessly.
+- **HTTP Module**: Create robust HTTP servers.
 
 Routing Made Simple:
-**Static Routing**: Serve predefined pages for /, /about, and /contact.
-**Dynamic Routing**: Automatically serve files based on URL, with a fallback for missing pages (404).
+- **Static Routing**: Serve predefined pages for /, /about, and /contact.
+- **Dynamic Routing**: Automatically serve files based on URL, with a fallback for missing pages (404).
 
 ---
 
 ## 📂 File Structure
+```bash
 nodejs-crash-course/
 ├── public/
 │   ├── index.html
@@ -81,6 +82,8 @@ nodejs-crash-course/
 ├── .env
 ├── index.js
 └── package.json
+```
+
 
 
 
